@@ -1,0 +1,35 @@
+.mapage{
+    width: 780px;
+    font-family: 'Lobster';
+    background-color:rgb(101, 155, 187);
+    height: 1000px;
+}
+.photo{
+    display: inline-block;
+}
+.information{
+    float: right;
+    margin-left: 180px;
+   margin-top: 80px;
+}
+.profil{
+    margin-left: 80px;
+    
+}
+.profil img{
+    border-radius: 50%;
+}
+.photo p{
+    text-align: center;
+}
+.contact,.lire{
+    display: inline-block;
+}
+#lire{
+    float: right;
+    padding-left: 200px;
+   margin-top: 80px;
+}
+h3{
+    margin-top: 80px;
+}

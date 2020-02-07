@@ -1,0 +1,25 @@
+.mapage{
+   width: 780px;
+   font-style: normal;
+   font-size: 15px;
+   font-family: 'lora' ;
+   margin: auto;
+   border: solid 2px black;
+}
+.entete{
+    height: 150px;
+    border: solid 1px;
+    margin-bottom: 5px; 
+}
+.information,.photo{
+    display: inline-block;
+}
+.photo{
+    float: right;
+}
+#ph{
+    border-radius : 75px;
+}
+#corps{
+    background-image: url(do.jpeg);
+}

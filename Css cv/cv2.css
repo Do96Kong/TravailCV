@@ -5,6 +5,7 @@
    font-family: 'lora' ;
    margin: auto;
    border: solid 2px black;
+   text-align: center;
 }
 .entete{
     height: 150px;
